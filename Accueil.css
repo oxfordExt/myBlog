@@ -10,14 +10,10 @@
   margin: 24px auto 0 0;
 }
 
-.u-section-1 .u-layout-cell-1 {
-  min-height: 532px;
-}
-
 .u-section-1 .u-image-1 {
-  width: 550px;
-  height: 766px;
-  margin: 0 auto;
+  min-height: 532px;
+  background-image: url("images/Anass.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-layout-cell-2 {
@@ -36,7 +32,7 @@
 
 .u-section-1 .u-text-2 {
   font-style: italic;
-  margin: 20px 20px 0 0;
+  margin: 20px 20px 0 16px;
 }
 
 .u-section-1 .u-btn-1 {
@@ -212,13 +208,8 @@
     margin-left: initial;
   }
 
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 439px;
-  }
-
   .u-section-1 .u-image-1 {
-    width: 470px;
-    height: 655px;
+    min-height: 439px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -230,6 +221,7 @@
   }
 
   .u-section-1 .u-text-2 {
+    margin-left: 0;
     margin-right: 0;
   }
 
@@ -301,14 +293,8 @@
     min-height: 1154px;
   }
 
-  .u-section-1 .u-layout-cell-1 {
-    min-height: 100px;
-  }
-
   .u-section-1 .u-image-1 {
-    width: 422px;
-    height: 399px;
-    margin-left: 0;
+    min-height: 100px;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -329,15 +315,8 @@
     min-height: 1254px;
   }
 
-  .u-section-1 .u-layout-cell-1 {
-    order: 1;
-  }
-
   .u-section-1 .u-image-1 {
-    width: 464px;
-    height: 439px;
-    margin-top: -40px;
-    margin-left: auto;
+    order: 1;
   }
 
   .u-section-1 .u-layout-cell-2 {
@@ -351,12 +330,6 @@
 }
 
 @media (max-width: 575px) {
-  .u-section-1 .u-image-1 {
-    width: 301px;
-    height: 301px;
-    margin-top: -20px;
-  }
-
   .u-section-1 .u-text-1 {
     font-size: 2.25rem;
   }
@@ -644,29 +617,9 @@
   margin: 0;
 }
 
-.u-section-3 .u-form-group-1 {
-  width: 100%;
-}
-
-.u-section-3 .u-form-group-2 {
-  width: 100%;
-}
-
-.u-section-3 .u-form-group-3 {
-  width: 100%;
-}
-
-.u-section-3 .u-form-group-4 {
-  width: 100%;
-}
-
 .u-section-3 .u-btn-2 {
   background-image: none;
   padding: 0;
-}
-
-.u-section-3 .u-form-group-5 {
-  width: 100%;
 }
 
 .u-section-3 .u-btn-3 {
