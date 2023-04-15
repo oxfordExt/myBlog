@@ -1,9 +1,10 @@
  .u-section-1 {
-  background-image: none;
+  background-image: url("images/92-casayogatv-blog-l-element-feu.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-1 .u-sheet-1 {
-  min-height: 1328px;
+  min-height: 1786px;
 }
 
 .u-section-1 .u-layout-wrap-1 {
@@ -199,10 +200,10 @@
 }
 
 .u-section-1 .u-slider-1 {
-  min-height: 375px;
-  width: 1140px;
+  min-height: 498px;
   height: auto;
-  margin: 20px auto 0 -20px;
+  margin-top: 20px;
+  margin-bottom: 0;
 }
 
 .u-section-1 .u-carousel-indicators-1 {
@@ -215,17 +216,21 @@
 }
 
 .u-section-1 .u-image-2 {
-  width: 587px;
-}
-
-.u-section-1 .u-container-layout-8 {
-  padding: 30px 50px;
+  width: 874px;
 }
 
 .u-section-1 .u-image-3 {
-  width: 742px;
-  height: 315px;
-  margin: 0 auto;
+  background-image: url("images/default-image-12.jpg?rand=95dd");
+}
+
+.u-section-1 .u-container-layout-8 {
+  padding: 0;
+}
+
+.u-section-1 .u-image-4 {
+  width: 1186px;
+  height: 515px;
+  margin: -41px auto 0 -26px;
 }
 
 .u-section-1 .u-carousel-control-1 {
@@ -327,7 +332,12 @@
   }
 
   .u-section-1 .u-slider-1 {
+    min-height: 391px;
+  }
+
+  .u-section-1 .u-image-4 {
     width: 940px;
+    height: 408px;
     margin-left: 0;
   }
 }
@@ -354,17 +364,12 @@
   }
 
   .u-section-1 .u-slider-1 {
+    min-height: 375px;
+  }
+
+  .u-section-1 .u-image-4 {
     width: 720px;
-  }
-
-  .u-section-1 .u-container-layout-8 {
-    padding-left: 30px;
-    padding-right: 30px;
-  }
-
-  .u-section-1 .u-image-3 {
-    width: 660px;
-    height: 280px;
+    height: 313px;
   }
 }
 
@@ -387,18 +392,9 @@
     padding-right: 10px;
   }
 
-  .u-section-1 .u-slider-1 {
+  .u-section-1 .u-image-4 {
     width: 540px;
-  }
-
-  .u-section-1 .u-container-layout-8 {
-    padding-left: 10px;
-    padding-right: 10px;
-  }
-
-  .u-section-1 .u-image-3 {
-    width: 520px;
-    height: 221px;
+    height: 235px;
   }
 }
 
@@ -455,13 +451,9 @@
     font-size: 1.5rem;
   }
 
-  .u-section-1 .u-slider-1 {
+  .u-section-1 .u-image-4 {
     width: 340px;
-  }
-
-  .u-section-1 .u-image-3 {
-    width: 320px;
-    height: 136px;
+    height: 148px;
   }
 } .u-section-2 {
   min-height: 671px;
