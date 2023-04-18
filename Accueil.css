@@ -20,7 +20,7 @@
 .u-section-1 .u-image-1 {
   height: 808px;
   object-position: 0% 50%;
-  margin-top: 21px;
+  margin-top: 0;
   margin-bottom: 0;
 }
 
@@ -28,7 +28,7 @@
   font-style: italic;
   font-size: 1.5rem;
   font-weight: 700;
-  margin: -261px 58px 0 42px;
+  margin: -240px 58px 0 42px;
 }
 
 .u-section-1 .u-list-1 {
@@ -319,7 +319,6 @@
   }
 
   .u-section-1 .u-image-1 {
-    margin-top: 0;
     height: 285px;
   }
 
