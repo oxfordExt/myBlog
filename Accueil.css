@@ -361,14 +361,16 @@
   }
 
   .u-section-1 .u-image-1 {
-    height: 195px;
-    width: 340px;
+    height: 210px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 0.625rem;
     width: auto;
-    margin-top: -64px;
+    margin-top: -79px;
   }
 
   .u-section-1 .u-list-1 {
