@@ -1,5 +1,5 @@
  .u-section-1 {
-  background-image: url("images/92-casayogatv-blog-l-element-feu.jpg");
+  background-image: url("images/photoplannoirchaleur.jpeg");
   background-position: 50% 50%;
   min-height: 1898px;
 }
@@ -543,10 +543,11 @@
   }
 
   .u-section-1 .u-image-3 {
-    width: 433px;
     height: 195px;
     margin-top: 0;
-    margin-right: -3px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-1 .u-container-layout-8 {
@@ -555,11 +556,8 @@
   }
 
   .u-section-1 .u-image-4 {
-    height: 280px;
-    width: 420px;
+    height: 293px;
     margin-top: 0;
-    margin-left: auto;
-    margin-right: auto;
   }
 
   .u-section-1 .u-image-5 {
