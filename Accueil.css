@@ -923,10 +923,6 @@
   margin-right: 0;
 }
 
-.u-section-4 .u-back-slide-1 {
-  background-image: none;
-}
-
 .u-section-4 .u-over-slide-1 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 30px;
@@ -945,10 +941,6 @@
   margin-right: 0;
 }
 
-.u-section-4 .u-back-image-3 {
-  object-position: 50% 84.16%;
-}
-
 .u-section-4 .u-over-slide-3 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 30px;
@@ -956,6 +948,10 @@
 
 .u-section-4 .u-carousel-item-4 {
   margin-right: 0;
+}
+
+.u-section-4 .u-back-slide-4 {
+  background-image: none;
 }
 
 .u-section-4 .u-over-slide-4 {
@@ -967,12 +963,18 @@
   margin-right: 0;
 }
 
+.u-section-4 .u-back-slide-5 {
+  background-image: none;
+}
+
 .u-section-4 .u-over-slide-5 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 30px;
 }
 
 .u-section-4 .u-carousel-item-6 {
+  margin-top: 0;
+  margin-bottom: 0;
   margin-right: 0;
 }
 
@@ -986,11 +988,9 @@
 }
 
 .u-section-4 .u-carousel-item-7 {
+  margin-top: 0;
+  margin-bottom: 0;
   margin-right: 0;
-}
-
-.u-section-4 .u-back-slide-7 {
-  background-image: none;
 }
 
 .u-section-4 .u-over-slide-7 {
@@ -999,8 +999,6 @@
 }
 
 .u-section-4 .u-carousel-item-8 {
-  margin-top: 0;
-  margin-bottom: 0;
   margin-right: 0;
 }
 
@@ -1014,9 +1012,11 @@
 }
 
 .u-section-4 .u-carousel-item-9 {
-  margin-top: 0;
-  margin-bottom: 0;
   margin-right: 0;
+}
+
+.u-section-4 .u-back-slide-9 {
+  background-image: none;
 }
 
 .u-section-4 .u-over-slide-9 {
@@ -1033,32 +1033,6 @@
 }
 
 .u-section-4 .u-over-slide-10 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-4 .u-carousel-item-11 {
-  margin-right: 0;
-}
-
-.u-section-4 .u-back-slide-11 {
-  background-image: none;
-}
-
-.u-section-4 .u-over-slide-11 {
-  background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
-  padding: 30px;
-}
-
-.u-section-4 .u-carousel-item-12 {
-  margin-right: 0;
-}
-
-.u-section-4 .u-back-slide-12 {
-  background-image: none;
-}
-
-.u-section-4 .u-over-slide-12 {
   background-image: linear-gradient(0deg, rgba(0,0,0,0.2), rgba(0,0,0,0.2));
   padding: 30px;
 }
@@ -1125,14 +1099,6 @@
   }
 
   .u-section-4 .u-over-slide-10 {
-    min-height: 100px;
-  }
-
-  .u-section-4 .u-over-slide-11 {
-    min-height: 100px;
-  }
-
-  .u-section-4 .u-over-slide-12 {
     min-height: 100px;
   }
 }
