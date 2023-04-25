@@ -1275,9 +1275,11 @@
   }
 
   .u-section-6 .u-group-1 {
-    width: 340px;
-    margin-top: -124px;
-    margin-bottom: 60px;
+    margin-top: -30px;
+    margin-bottom: 51px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
   }
 
   .u-section-6 .u-text-8 {
