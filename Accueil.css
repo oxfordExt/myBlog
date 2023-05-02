@@ -984,6 +984,7 @@
   font-size: 1.875rem;
   font-weight: 700;
   text-transform: uppercase;
+  text-decoration: none solid rgb(255, 255, 255);
   margin: -286px 662px 60px 14px;
 }
 
@@ -995,7 +996,6 @@
   .u-section-6 .u-text-8 {
     margin-top: 20px;
     margin-right: 476px;
-    text-decoration: none solid rgb(255, 255, 255);
   }
 }
 
@@ -1057,7 +1057,6 @@
     margin-right: initial;
     margin-left: initial;
     width: auto;
-    height: auto;
   }
 
   .u-section-6 .u-repeater-1 {
