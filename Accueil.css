@@ -469,7 +469,7 @@
     margin: -27px auto 46px 0;
   }
 }.u-section-4 .u-sheet-1 {
-  min-height: 944px;
+  min-height: 840px;
 }
 
 .u-section-4 .u-text-1 {
@@ -479,7 +479,7 @@
 
 .u-section-4 .u-layout-wrap-1 {
   margin-top: 60px;
-  margin-bottom: 60px;
+  margin-bottom: 26px;
 }
 
 .u-section-4 .u-image-1 {
@@ -569,7 +569,7 @@
 
 @media (max-width: 1199px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 834px;
+    min-height: 730px;
   }
 
   .u-section-4 .u-image-1 {
@@ -741,24 +741,24 @@
 }
 
 .u-section-5 .u-sheet-1 {
-  min-height: 1211px;
+  min-height: 887px;
 }
 
 .u-section-5 .u-text-1 {
   font-size: 2.25rem;
-  margin: 35px auto 0;
+  margin: 1px auto 0;
 }
 
 .u-section-5 .u-list-1 {
   width: 1022px;
   grid-template-rows: auto auto auto;
-  margin: 59px auto 60px;
+  margin: -21px auto 1px;
 }
 
 .u-section-5 .u-repeater-1 {
   grid-template-columns: 100%;
   grid-gap: 10px 10px;
-  min-height: 878px;
+  min-height: 864px;
 }
 
 .u-section-5 .u-container-layout-1 {
@@ -768,7 +768,7 @@
 .u-section-5 .u-icon-1 {
   height: 64px;
   width: 64px;
-  margin: 103px auto 0 18px;
+  margin: 79px auto 0 18px;
 }
 
 .u-section-5 .u-text-2 {
@@ -783,7 +783,7 @@
 .u-section-5 .u-icon-2 {
   height: 64px;
   width: 64px;
-  margin: 103px auto 0 18px;
+  margin: 79px auto 0 18px;
 }
 
 .u-section-5 .u-text-3 {
@@ -798,7 +798,7 @@
 .u-section-5 .u-icon-3 {
   height: 64px;
   width: 64px;
-  margin: 103px auto 0 18px;
+  margin: 79px auto 0 18px;
 }
 
 .u-section-5 .u-text-4 {
@@ -808,7 +808,7 @@
 
 @media (max-width: 1199px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 999px;
+    min-height: 731px;
   }
 
   .u-section-5 .u-list-1 {
@@ -831,7 +831,7 @@
 
 @media (max-width: 991px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 765px;
+    min-height: 560px;
   }
 
   .u-section-5 .u-list-1 {
@@ -853,7 +853,7 @@
 
 @media (max-width: 767px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 574px;
+    min-height: 420px;
   }
 
   .u-section-5 .u-list-1 {
@@ -893,7 +893,7 @@
 
 @media (max-width: 575px) {
   .u-section-5 .u-sheet-1 {
-    min-height: 361px;
+    min-height: 264px;
   }
 
   .u-section-5 .u-list-1 {
