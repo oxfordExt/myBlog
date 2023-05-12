@@ -738,6 +738,7 @@
   }
 } .u-section-5 {
   background-image: url("images/23.jpg");
+  background-position: 50% 50%;
 }
 
 .u-section-5 .u-sheet-1 {
@@ -1380,6 +1381,7 @@
 
 .u-section-8 .u-btn-1 {
   background-image: none;
+  font-size: 1.125rem;
   padding: 0;
 }
 
